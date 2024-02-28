@@ -3,7 +3,6 @@
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Skill ✨</p>
 </div>
-
 <div align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -28,6 +27,7 @@
 	<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
+<br>
 <div align=center>
 	<p>🛠 IDE 🛠</p>
 </div>
@@ -41,6 +41,7 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJDev93)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJDev93&hide=contribs,prs&show_icons=true&theme=graywhite)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
