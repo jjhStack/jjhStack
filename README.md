@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=300&section=header&text=JJHumm's%20Github!&fontColor=363636&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=300&section=header&text=JJDev93's%20Github!&fontColor=363636&fontSize=90" />
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
