@@ -66,14 +66,13 @@ Here are some ideas to get you started:
 
 
 ### Contacts
-If you want to learn more, collaborate, have questions, or just want to say hello, feel free to reach out anytime!
+If you want to collaborate, have questions, or just want to say hello, feel free to reach out anytime!
 - Email : [jjdev93](mailto:jjdev93@gmail.com)
 - Instagram : [o_100_](https://www.instagram.com/o_100_/)
 
 
 ### Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJDev93)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJDev93&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJDev93&hide=contribs,prs&show_icons=true&theme=graywhite)
 
