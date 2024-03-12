@@ -16,24 +16,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Work Experiences
+
+- `HUMANN-CIS / Backend Developer / 2023.05 ~ Present`
+  - Development of a solution program based on Java and Spring
+  - Creation of enterprise management solutions (TMS) and collaborative work systems
+- `Fivestones / Frontend Developer / 2019.04 ~ 2022.03`
+  - Frontend development based on hardcoding
+  - Development of an e-commerce website using GnuBoard and YoungCart
+  - Development of an admin page based on PHP
+
 ### Experiences
-
-- Backend Developer, HUMANN-CIS (2023.05 ~ ing)
-- Frontend Developer, Fivestones (2019.04 ~ 2022.03)
-- 🎓 Korea National Open University (2019.08 ~ 2022.01)
-
-
-### Activities
-
-- Fostering Big Data Processing and Visualization Using Java and Python (2022.09 ~ 2023.04)
-- Training Smart Content Creators Based on HTML5 (2018.06 ~ 2018.11)
-
+- 📖 Fostering Big Data Processing and Visualization Using Java and Python (2022.09 ~ 2023.04)
+- 🎓 Korea National Open University, Computer Science (2019.08 ~ 2022.01)
+- 📖 Training Smart Content Creators Based on HTML5 (2018.06 ~ 2018.11)
 
 ### Link
-[📎 Github Blog](https://jjdev93.github.io)
+- [Github Blog](https://jjdev93.github.io)
 
 
-### Skill
+### Tech stacks
 ![spring](http://img.shields.io/badge/-spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![springboot](http://img.shields.io/badge/-springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![php](http://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=white)
