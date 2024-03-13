@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   - Development of an e-commerce website using GnuBoard and YoungCart
   - Development of an admin page based on PHP
 
-### Experiences
+### Education
 - 📖 Fostering Big Data Processing and Visualization Using Java and Python (2022.09 ~ 2023.04)
 - 🎓 Korea National Open University, Computer Science (2019.08 ~ 2022.01)
 - 📖 Training Smart Content Creators Based on HTML5 (2018.06 ~ 2018.11)
