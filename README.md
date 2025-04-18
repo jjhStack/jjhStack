@@ -91,7 +91,7 @@ Built and maintained multiple e-commerce websites using **PHP**, **GnuBoard**, a
 ### Contacts
 If you want to collaborate, have questions, or just want to say hello, feel free to reach out anytime!
 - Email : [jjdev93](mailto:jjdev93@gmail.com)
-- Instagram : [o_100_](https://www.instagram.com/o_100_/)
+- Instagram : [jjh.log](https://www.instagram.com/jjh.log/)
 - LinkedIn : [jjdev93](www.linkedin.com/in/jjdev93)
 
 
