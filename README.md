@@ -3,7 +3,7 @@
 A detail-oriented and passionate **Full-Stack Developer** based in South Korea 🇰🇷.  
 With over 5 years of hands-on experience in both backend and frontend development, I specialize in building robust, scalable web applications using **Java, Spring Boot, and Vue.js**.
 
-- 😄 I’m currently preparing for a working holiday in **Canada 🇨🇦**, eager to join international tech teams and broaden my development experience across borders.
+- ⚡ I’m currently preparing for a working holiday in **Canada 🇨🇦**, eager to join international tech teams and broaden my development experience across borders.
 - 🔭 I’m currently working on a personal portfolio project for showcasing my skills in Spring Boot & Vue.js.
 - 🌱 I’m currently learning advanced English for tech interviews and documentation.
 
