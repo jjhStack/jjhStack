@@ -44,7 +44,7 @@ Built and maintained multiple e-commerce websites using **PHP**, **GnuBoard**, a
 
 ### 🔗 My Work
 
-- 📘 [Visit my Github Blog](https://jjdev93.github.io)
+- 📘 [Visit my Github Blog](https://jjhStack.github.io)
 
 
 
@@ -90,13 +90,13 @@ Built and maintained multiple e-commerce websites using **PHP**, **GnuBoard**, a
 
 ### Contacts
 If you want to collaborate, have questions, or just want to say hello, feel free to reach out anytime!
-- Email : [jjdev93](mailto:jjdev93@gmail.com)
+- Email : [jjh.stack](mailto:jjh.stack@gmail.com)
 - Instagram : [jjh.log](https://www.instagram.com/jjh.log/)
-- LinkedIn : [jjdev93](www.linkedin.com/in/jjdev93)
+- LinkedIn : [jjhstack](www.linkedin.com/in/jjhstack)
 
 
 
 ### Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJDev93&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJDev93&hide=contribs,prs&show_icons=true&theme=graywhite)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjhStack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjhStack&hide=contribs,prs&show_icons=true&theme=graywhite)
 
