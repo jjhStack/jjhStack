@@ -92,7 +92,7 @@ Built and maintained multiple e-commerce websites using **PHP**, **GnuBoard**, a
 If you want to collaborate, have questions, or just want to say hello, feel free to reach out anytime!
 - Email : [jjh.stack](mailto:jjh.stack@gmail.com)
 - Instagram : [jjh.log](https://www.instagram.com/jjh.log/)
-- LinkedIn : [jjhstack](www.linkedin.com/in/jjhstack)
+- LinkedIn : [jjhstack](https://www.linkedin.com/in/jjhstack/)
 
 
 
