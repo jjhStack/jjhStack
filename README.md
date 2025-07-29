@@ -26,11 +26,17 @@ Here are some ideas to get you started:
 
 **Backend Developer | HUMANN-CIS**  
 _2023.05 – Present_  
-Developed enterprise management solutions (TMS) and collaborative work systems using **Java**, **Spring Boot**, and **MySQL**. Participated in system architecture design and implemented business logic in a fast-paced Agile team.
+- Developed enterprise resource management systems (TMS) and collaborative workflow platforms.
+- Designed and implemented scalable backend architecture using Java, Spring Boot, and MySQL.
+- Built RESTful APIs and integrated complex business logic in a fast-paced Agile environment.
+- Participated in system architecture discussions, code reviews, and CI/CD pipeline enhancements.
 
 **Frontend Developer | Fivestones**  
 _2019.04 – 2022.03_  
-Built and maintained multiple e-commerce websites using **PHP**, **GnuBoard**, and **YoungCart**. Focused on responsive UI development with **HTML5**, **CSS**, and **JavaScript**, and created admin dashboards tailored for client needs.
+- Built and maintained e-commerce websites using PHP-based CMS platforms such as GnuBoard and YoungCart.
+- Developed responsive, cross-browser UIs using HTML5, CSS3, and vanilla JavaScript.
+- Customized admin dashboards and client interfaces tailored to unique business requirements.
+- Optimized user experience (UX) and design consistency in collaboration with UI/UX teams.
 
 
 
