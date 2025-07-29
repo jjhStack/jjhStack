@@ -3,9 +3,9 @@
 A detail-oriented and passionate **Full-Stack Developer** based in South Korea 🇰🇷.  
 With over 5 years of hands-on experience in both backend and frontend development, I specialize in building robust, scalable web applications using **Java, Spring Boot, and Vue.js**.
 
-- ⚡ I’m currently preparing for a working holiday in **Canada 🇨🇦**, eager to join international tech teams and broaden my development experience across borders.
+- ⚡ I’m eager to join international tech teams and grow into a global tech talent by expanding my development experience across borders.
 - 🔭 I’m currently working on a personal portfolio project for showcasing my skills in Spring Boot & Vue.js.
-- 🌱 I’m currently learning advanced English for tech interviews and documentation.
+- 🌱 I’m currently learning advanced English.
 
 <!--
 Here are some ideas to get you started:
@@ -41,10 +41,28 @@ _2019.04 – 2022.03_
 
 
 ### 📚 Education & Training
-- **Korea National Open University**, B.S. in Computer Science (2019.08 ~ 2022.01)  
-- **Big Data Processing with Java & Python**, Government-Supported Program (2022.09 ~ 2023.04)  
-  _Covered data analysis, backend integration, and visualization with real-world project simulations._
-- **Smart Content Creator Training**, HTML5-Based (2018.06 ~ 2018.11)
+
+**Big Data Processing with Java & Python**, Government-Supported Program   
+_2022.09 – 2023.04_  
+- Completed intensive training in Java, Python, and big data analytics.
+- Covered full-stack development topics including:
+- Java fundamentals and advanced programming
+- SQL databases & data modeling
+- Web application server setup and deployment
+- Application testing and dashboard development using frontend frameworks
+- Python scripting for data collection and processing
+- Big data analysis using visualization tools
+- Capstone Project: Developed a big data–based service application integrating real-time data processing and web visualization.
+
+**Korea National Open University**, B.S. in Computer Science (2019.08 ~ 2022.01) 
+_2019.08 – 2022.01_   
+
+**Smart Content Development Using HTML5 & Web Technologies**, Korea IT Broadcasting & Media Institute  
+_2018.06 – 2018.11_
+- Trained in front-end and back-end web development using:
+- HTML5, CSS3, JavaScript, jQuery, PHP
+- Built interactive smart cultural content applications for web and mobile platforms.
+- Focused on responsive design and interactive UI/UX using modern web standards.
 
 
 
