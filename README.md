@@ -1,11 +1,12 @@
 # 👋 Hi there! I'm Jeon Jihye
 
-A detail-oriented and passionate **Full-Stack Developer** based in South Korea 🇰🇷.  
+A detail-oriented and passionate **Full-Stack Developer** based in Germany 🇩🇪.
 With over 5 years of hands-on experience in both backend and frontend development, I specialize in building robust, scalable web applications using **Java, Spring Boot, and Vue.js**.
 
 - ⚡ I’m eager to join international tech teams and grow into a global tech talent by expanding my development experience across borders.
-- 🔭 I’m currently working on a personal portfolio project for showcasing my skills in Spring Boot & Vue.js.
+- 👯 I’m currently working on a personal portfolio project for showcasing my skills in Spring Boot & Vue.js.
 - 🌱 I’m currently learning advanced English.
+- 🔭 I'm currently on a working holiday in Germany, exploring new challenges.
 
 <!--
 Here are some ideas to get you started:
@@ -25,7 +26,7 @@ Here are some ideas to get you started:
 ### 💼 Work Experience
 
 **Backend Developer | HUMANN-CIS**  
-_2023.05 – Present_  
+_2023.05 – 2026.03
 - Developed enterprise resource management systems (TMS) and collaborative workflow platforms.
 - Designed and implemented scalable backend architecture using Java, Spring Boot, and MySQL.
 - Built RESTful APIs and integrated complex business logic in a fast-paced Agile environment.
@@ -107,8 +108,9 @@ _2018.06 – 2018.11_
 
 ### 😄 Fun Fact
 - I love organizing with Notion and journaling ✍️
-- I’m currently planning a working holiday trip to Canada 🇨🇦
 - I enjoy taking photos, especially of nature 🌿📸
+- I'm currently learning German 🇩🇪 🌱
+- Open to remote freelance opportunities — feel free to reach out!
 
 
 
