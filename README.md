@@ -4,9 +4,10 @@ A detail-oriented and passionate **Full-Stack Developer** based in Germany 🇩�
 With over 5 years of hands-on experience in both backend and frontend development, I specialize in building robust, scalable web applications using **Java, Spring Boot, and Vue.js**.
 
 - ⚡ I’m eager to join international tech teams and grow into a global tech talent by expanding my development experience across borders.
-- 👯 I’m currently working on a personal portfolio project for showcasing my skills in Spring Boot & Vue.js.
-- 🌱 I’m currently learning advanced English.
-- 🔭 I'm currently on a working holiday in Germany, exploring new challenges.
+- 👯 I’m currently working on a personal portfolio project to showcase my skills in Spring Boot & Vue.js.
+- 🌱 I’m currently learning advanced English and German 🇩🇪.
+- 🔭 I'm currently on a working holiday in Germany (since May 2026), exploring new challenges.
+- 💼 Open to remote freelance opportunities — feel free to reach out!
 
 <!--
 Here are some ideas to get you started:
@@ -27,7 +28,7 @@ Here are some ideas to get you started:
 
 **Backend Developer | HUMANN-CIS**  
 _2023.05 – 2026.03_  
-- Developed enterprise resource management systems (TMS) and collaborative workflow platforms.
+- Developed Enterprise Resource Planning (ERP) systems and collaborative workflow platforms.
 - Designed and implemented scalable backend architecture using Java, Spring Boot, and MySQL.
 - Built RESTful APIs and integrated complex business logic in a fast-paced Agile environment.
 - Participated in system architecture discussions, code reviews, and CI/CD pipeline enhancements.
@@ -109,8 +110,6 @@ _2018.06 – 2018.11_
 ### 😄 Fun Fact
 - I love organizing with Notion and journaling ✍️
 - I enjoy taking photos, especially of nature 🌿📸
-- I'm currently learning German 🇩🇪 🌱
-- Open to remote freelance opportunities — feel free to reach out!
 
 
 
