@@ -70,11 +70,11 @@ _2018.06 – 2018.11_
 
 ### 🔗 My Work
 
-- 📘 [Visit my Github Blog](https://jjhStack.github.io)
+- 📘 [Visit my GitHub Blog](https://jjhStack.github.io)
 
 
 
-### Tech stacks
+### Tech Stack
 #### 🔙 Backend
 ![spring](http://img.shields.io/badge/-spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![springboot](http://img.shields.io/badge/-springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -115,13 +115,13 @@ _2018.06 – 2018.11_
 
 ### Contacts
 If you want to collaborate, have questions, or just want to say hello, feel free to reach out anytime!
-- Email : [jjh.stack](mailto:jjh.stack@gmail.com)
+- Email : [jjh.stack@gmail.com](mailto:jjh.stack@gmail.com)
 - Instagram : [jjh.log](https://www.instagram.com/jjh.log/)
 - LinkedIn : [jjhstack](https://www.linkedin.com/in/jjhstack/)
 
 
 
-### Github Stats
+### GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjhStack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjhStack&hide=contribs,prs&show_icons=true&theme=graywhite)
 
