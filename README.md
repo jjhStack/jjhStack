@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### 💼 Work Experience
 
 **Backend Developer | HUMANN-CIS**  
-_2023.05 – 2026.03
+_2023.05 – 2026.03_  
 - Developed enterprise resource management systems (TMS) and collaborative workflow platforms.
 - Designed and implemented scalable backend architecture using Java, Spring Boot, and MySQL.
 - Built RESTful APIs and integrated complex business logic in a fast-paced Agile environment.
@@ -47,21 +47,21 @@ _2019.04 – 2022.03_
 _2022.09 – 2023.04_  
 - Completed intensive training in Java, Python, and big data analytics.
 - Covered full-stack development topics including:
-- Java fundamentals and advanced programming
-- SQL databases & data modeling
-- Web application server setup and deployment
-- Application testing and dashboard development using frontend frameworks
-- Python scripting for data collection and processing
-- Big data analysis using visualization tools
+  - Java fundamentals and advanced programming
+  - SQL databases & data modeling
+  - Web application server setup and deployment
+  - Application testing and dashboard development using frontend frameworks
+  - Python scripting for data collection and processing
+  - Big data analysis using visualization tools
 - Capstone Project: Developed a big data–based service application integrating real-time data processing and web visualization.
 
-**Korea National Open University**, B.S. in Computer Science (2019.08 ~ 2022.01) 
+**Korea National Open University**, B.S. in Computer Science  
 _2019.08 – 2022.01_   
 
 **Smart Content Development Using HTML5 & Web Technologies**, Korea IT Broadcasting & Media Institute  
 _2018.06 – 2018.11_
 - Trained in front-end and back-end web development using:
-- HTML5, CSS3, JavaScript, jQuery, PHP
+  - HTML5, CSS3, JavaScript, jQuery, PHP
 - Built interactive smart cultural content applications for web and mobile platforms.
 - Focused on responsive design and interactive UI/UX using modern web standards.
 
