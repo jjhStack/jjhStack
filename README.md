@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Jeon Jihye
 
-A backend-focused **Full-Stack Developer** based in Bonn, Germany 🇩🇪.
+A backend-focused **Full-Stack Developer** based in Germany 🇩🇪.
 With 6 years of experience, I build enterprise systems for major Korean corporations using **Java, Spring Boot and SQL**, backed by strong frontend experience.
 
 - 🏢 I’ve built enterprise systems for major Korean firms in automotive, steel, finance and logistics.
