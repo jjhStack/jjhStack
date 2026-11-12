@@ -1,13 +1,13 @@
 # 👋 Hi there! I'm Jeon Jihye
 
-A detail-oriented and passionate **Full-Stack Developer** based in Germany 🇩🇪.
-With over 5 years of hands-on experience in both backend and frontend development, I specialize in building robust, scalable web applications using **Java, Spring Boot, and Vue.js**.
+A backend-focused **Full-Stack Developer** based in Bonn, Germany 🇩🇪.
+With 6 years of experience, I build enterprise systems for major Korean corporations using **Java, Spring Boot and SQL**, backed by strong frontend experience.
 
-- ⚡ I’m eager to join international tech teams and grow into a global tech talent by expanding my development experience across borders.
-- 👯 I’m currently working on a personal portfolio project to showcase my skills in Spring Boot & Vue.js.
-- 🌱 I’m currently learning advanced English and German 🇩🇪.
-- 🔭 I'm currently on a working holiday in Germany (since May 2026), exploring new challenges.
-- 💼 Open to remote freelance opportunities — feel free to reach out!
+- 🏢 I’ve built enterprise systems for major Korean firms in automotive, steel, finance and logistics.
+- 🧩 Most recently, I rebuilt a major automaker’s security rights management system as microservices.
+- ⚡ I’m eager to join international tech teams and keep growing my development experience across borders.
+- 🌱 I’m currently learning German 🇩🇪 (A1).
+- 💼 Open to full-time roles and remote freelance work. Feel free to reach out!
 
 <!--
 Here are some ideas to get you started:
@@ -26,82 +26,101 @@ Here are some ideas to get you started:
 
 ### 💼 Work Experience
 
-**Backend Developer | HUMANN-CIS**  
-_2023.05 – 2026.03_  
-- Developed Enterprise Resource Planning (ERP) systems and collaborative workflow platforms.
-- Designed and implemented scalable backend architecture using Java, Spring Boot, and MySQL.
-- Built RESTful APIs and integrated complex business logic in a fast-paced Agile environment.
-- Participated in system architecture discussions, code reviews, and CI/CD pipeline enhancements.
+**Backend Developer | HUMAN-N-CIS**, Seoul, Republic of Korea  
+_05.2023 – 03.2026_  
+- Built enterprise systems for major Korean firms in automotive, steel, finance and logistics.
+- Rebuilt a major automaker’s security rights management system as microservices (MSA).
+- Developed backend services and REST APIs in Java and Spring Boot; handled schema design and SQL tuning.
+- Domain experience: general affairs, HR and security rights systems.
 
-**Frontend Developer | Fivestones**  
-_2019.04 – 2022.03_  
-- Built and maintained e-commerce websites using PHP-based CMS platforms such as GnuBoard and YoungCart.
-- Developed responsive, cross-browser UIs using HTML5, CSS3, and vanilla JavaScript.
-- Customized admin dashboards and client interfaces tailored to unique business requirements.
-- Optimized user experience (UX) and design consistency in collaboration with UI/UX teams.
+**Freelance Web Developer | Self-employed**, Remote  
+_04.2022 – present_  
+- **LAWnB**: rebuilt the frontend of Thomson Reuters’ Korean legal research portal.
+- **TCUBEit**: built a custom WordPress theme with GSAP scroll animations (KR/EN).
+
+**Frontend Developer | FiveStones**, Seoul, Republic of Korea  
+_04.2019 – 03.2022_  
+- Built 20+ responsive client websites and online shops with PHP and GnuBoard.
+- Delivered a public agency site (TACSS) that passed Korea’s national web accessibility certification.
+- Built admin pages and MySQL databases, working closely with UI/UX designers.
 
 
 
 ### 📚 Education & Training
 
-**Big Data Processing with Java & Python**, Government-Supported Program   
-_2022.09 – 2023.04_  
-- Completed intensive training in Java, Python, and big data analytics.
-- Covered full-stack development topics including:
-  - Java fundamentals and advanced programming
-  - SQL databases & data modeling
-  - Web application server setup and deployment
-  - Application testing and dashboard development using frontend frameworks
-  - Python scripting for data collection and processing
-  - Big data analysis using visualization tools
-- Capstone Project: Developed a big data–based service application integrating real-time data processing and web visualization.
+**Big Data Processing with Java & Python** 🏆 _Excellence Award_  
+Hi Media Academy (government-funded), Seoul · _09.2022 – 04.2023_
 
-**Korea National Open University**, B.S. in Computer Science  
-_2019.08 – 2022.01_   
+**Bachelor of Computer Science**  
+Korea National Open University, Seoul · _08.2019 – 01.2022_
 
-**Smart Content Development Using HTML5 & Web Technologies**, Korea IT Broadcasting & Media Institute  
-_2018.06 – 2018.11_
-- Trained in front-end and back-end web development using:
-  - HTML5, CSS3, JavaScript, jQuery, PHP
-- Built interactive smart cultural content applications for web and mobile platforms.
-- Focused on responsive design and interactive UI/UX using modern web standards.
+**Smart Content Development with HTML5 & Web Technologies**  
+Korea IT Broadcasting & Media Institute, Seoul · _06.2018 – 11.2018_
+
+**Associate Degree in Business Administration**  
+Shinheung College (now Shinhan University), Uijeongbu-si · _03.2012 – 02.2014_
+
+
+
+### 📜 Certifications
+
+| Date | Certification | Issuer |
+| --- | --- | --- |
+| 04.2025 | SQL Developer (SQLD) | Korea Data Agency |
+| 06.2022 | Engineer Information Processing | HRD Korea (Korean national IT qualification) |
+| 2013 – 2014 | ERP Information Manager, Accounting & HR (Level 2) | Korea Productivity Center |
+
+
+
+### 🌐 Languages
+
+- 🇰🇷 Korean: Native
+- 🇬🇧 English: Fluent
+- 🇩🇪 German: A1, currently learning
 
 
 
 ### 🔗 My Work
 
-- 📘 [Visit my GitHub Blog](https://jjhStack.github.io)
+- 🗂️ [Visit my Portfolio](https://jjhstack.github.io)
 
 
 
 ### Tech Stack
 #### 🔙 Backend
-![spring](http://img.shields.io/badge/-spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Java](http://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![springboot](http://img.shields.io/badge/-springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Java](http://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Django](http://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](http://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Amazon_AWS](http://img.shields.io/badge/-Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MariaDB](http://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MySQL](http://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](http://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+![spring](http://img.shields.io/badge/-spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MyBatis](http://img.shields.io/badge/-MyBatis-B22222?style=for-the-badge&logoColor=white)
 ![php](http://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](http://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+#### 🗄️ Database
+![MySQL](http://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](http://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Oracle](http://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 
 #### 🖼️ Frontend
+![javascript](http://img.shields.io/badge/-javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](http://img.shields.io/badge/-Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React](http://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![html5](http://img.shields.io/badge/-html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](http://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![javascript](http://img.shields.io/badge/-javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![jquery](http://img.shields.io/badge/-jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![React](http://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](http://img.shields.io/badge/-Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![WordPress](http://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Bootstrap](http://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap&logoColor=white)
 
-#### 🛠️ Dev Tools & Others
+#### 🛠️ DevOps & Tools
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](http://img.shields.io/badge/-github-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](http://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![SVN](http://img.shields.io/badge/-SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
+![Jenkins](http://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![SonarQube](http://img.shields.io/badge/-SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Amazon_AWS](http://img.shields.io/badge/-Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](http://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![IntelliJ_IDEA](http://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](http://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Visual_Studio](http://img.shields.io/badge/-Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Visual_Studio_Code](http://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
@@ -116,7 +135,7 @@ _2018.06 – 2018.11_
 ### Contacts
 If you want to collaborate, have questions, or just want to say hello, feel free to reach out anytime!
 - Email : [jjh.stack@gmail.com](mailto:jjh.stack@gmail.com)
-- Instagram : [jjh.log](https://www.instagram.com/jjh.log/)
+- Portfolio : [jjhstack.github.io](https://jjhstack.github.io)
 - LinkedIn : [jjhstack](https://www.linkedin.com/in/jjhstack/)
 
 
@@ -124,4 +143,3 @@ If you want to collaborate, have questions, or just want to say hello, feel free
 ### GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjhStack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjhStack&hide=contribs,prs&show_icons=true&theme=graywhite)
-
